@@ -23,6 +23,7 @@ section{
     display: flex;
     justify-content: center;
     margin: 10vh auto;
+    flex-wrap: wrap;
 }
 
 h1{
@@ -61,6 +62,7 @@ h1{
 
 .balls{
     display: flex;
+    flex-wrap: wrap;
 }
 
 .scoreboard{

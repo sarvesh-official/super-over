@@ -89,7 +89,8 @@ function strikeButtonClicked() {
 function updateScore() {
     team1score_tag.innerHTML = team1Score
     team1Wicket_tag.innerHTML = team1Wickets
-
+    team2score_tag.innerHTML = team2Score
+    team2score_tag.innerHTML = team2Wickets
 
 }
  
